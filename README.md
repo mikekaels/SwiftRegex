@@ -3,7 +3,9 @@ Regex for Swift code
 ![This is an image](https://ik.imagekit.io/m1ke1magek1t/Github_Readme_/Swift_Regex_j5WM--g1N.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673932121304)
 
 
-You can copy this file ([Regex](https://github.com/mikekaels/SwiftRegex/blob/main/SwiftRegex/Regex.swift)) into your code 
+To use you can copy this file 
+([Regex](https://github.com/mikekaels/SwiftRegex/blob/main/SwiftRegex/Regex.swift)) into your code 
+
 
 # This regex handling many kind of validation as the list below:
 - URL
