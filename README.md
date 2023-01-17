@@ -23,7 +23,7 @@ You can copy this file ([Regex](https://github.com/mikekaels/SwiftRegex/blob/mai
 - Minimum digits
 - Minimum special character
 
-# How Validate Text
+# How to validate text
 ```
   let string = "text"
   // Unwrap with if let because it will return optional Array of Strings
@@ -36,7 +36,7 @@ You can copy this file ([Regex](https://github.com/mikekaels/SwiftRegex/blob/mai
   }
 ```
 
-# How Validate URL
+# How to validate URL
 ```
   let string = "htp://privy.id"
   if let errorMessage = string.validateURL(errorMessage: "Invalid URL") {
