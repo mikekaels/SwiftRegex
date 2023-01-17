@@ -1,7 +1,11 @@
 # SwiftRegex
 Regex for Swift code
 ![This is an image](https://ik.imagekit.io/m1ke1magek1t/Github_Readme_/Swift_Regex_j5WM--g1N.png?ik-sdk-version=javascript-1.4.3&updatedAt=1673932121304)
-Regex handling many kind of validation as the list below:
+
+
+You can copy this file into your code [Regex](https://github.com/mikekaels/SwiftRegex/blob/main/SwiftRegex/Regex.swift)
+
+# This regex handling many kind of validation as the list below:
 - URL
 - Email
 - Password
